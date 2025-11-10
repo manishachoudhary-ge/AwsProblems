@@ -16,7 +16,7 @@ Explaining setup: First created a lamda Function for performing the crud operati
 
 3.Scenario: Allow users to upload and download files using presigned URLs.
 
-GitHub repo link: 
+GitHub repo link: https://github.com/manishachoudhary-ge/AwsProblems/tree/main/SenarioThree
 
 Deployed endpoint URL : https://s12saqkxfc.execute-api.eu-north-1.amazonaws.com/prod/files
 
